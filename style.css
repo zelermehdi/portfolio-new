@@ -192,14 +192,13 @@ footer{
 }
 input{
 	border-width:0.5px;
-	border-style:gray;
+
 	padding:15px;
 }
 
 #download:hover, #send:hover {
 	background-color:#333333;
 	color:white;
-	border-color:#333333;
 }
 
 .BF{
